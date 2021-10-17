@@ -1,2 +1,6 @@
 # we are going to ignore the Log file
 log.txt
+
+# the enitre folder
+
+build/*
