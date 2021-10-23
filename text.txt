@@ -1,5 +1,10 @@
 Abdallah Alfaham
 ALH SOFTWARE
 master
+<<<<<<< HEAD
 yes
 go
+=======
+yes no
+yes yes
+>>>>>>> f755a5728c69d4e23933ae7cb651e08fae75d7b1
